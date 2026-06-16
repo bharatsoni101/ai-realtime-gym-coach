@@ -1,0 +1,10 @@
+.env
+env/
+.venv/
+
+env
+
+__pycache__/
+.idea/
+.streamlit/
+data.db
